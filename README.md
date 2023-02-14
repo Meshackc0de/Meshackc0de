@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meshackc0de
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning javascript + Dart.
 - 💞️ I’m looking to collaborate on any front-end development projects.
 - 📫 How to reach me ...
 
