@@ -2,7 +2,8 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning javascript + Dart.
 - 💞️ I’m looking to collaborate on any front-end development projects.
-- 📫 How to reach me ...
+- 📫 How to reach me meshackjohn420@gmail.com
+- 
 
 <!---
 Meshackc0de/Meshackc0de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
