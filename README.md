@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meshackc0de
-- <a href="https://app.daily.dev/M1000"><img src="https://github.com/Meshackc0de/Meshackc0de/blob/main/devcard.svg" width="250"  alt="Meshack John's Dev Card"/></a>
+- <a href="https://app.daily.dev/M1000"><img src="https://github.com/Meshackc0de/Meshackc0de/blob/main/devcard.svg" width="270"  alt="Meshack John's Dev Card"/></a>
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on any front-end development projects.
