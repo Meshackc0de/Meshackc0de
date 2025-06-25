@@ -3,7 +3,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on any front-end development projects.
-- 📫 How to reach me meshackjohn420@gmail.com
+- 📫 How to reach me meshackjohn026@gmail.com
 
 
 <!---
